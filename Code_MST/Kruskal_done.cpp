@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <vector>
 //#include <algorithm>
 using namespace std;
@@ -6,7 +6,6 @@ using namespace std;
 //Cấu trúc dữ liệu DSU
 class DSU {
     int* parent; // một mảng lưu trữ đỉnh cha của các node
-
 public:
     //Hàm khởi tạo hàm mảng parent với mỗi phần tử trỏ đến chỉnh nó
     DSU(int n) {
@@ -28,7 +27,6 @@ public:
         parent[u] = v;
     }
 };
-
 //Ta có thể coi edgelist là 1 mảng 2 chiều, khi đó:
 //edgelist[][0]: là u (đỉnh thứ 1)
 //edgelist[][1]: là v (đỉnh thứ 2)
@@ -36,7 +34,6 @@ public:
 //Vậy nên hàm quickSort này sẽ sắp xếp edgelist theo trọng số
 void quickSort(vector<vector<int>>& edgelist, int left, int right) {
     if (left >= right) return;
-
     int i = left, j = right;
     int pivot = edgelist[(left + right) / 2][2];
     while (i <= j) {
@@ -96,8 +93,6 @@ public:
         cout << "Minimum Cost Spanning Tree: " << MST_Cost << endl;
     }
 };
-
-
 int main() {
     //Nhập dữ liệu từ bàn phím
     //int v, num_e;
