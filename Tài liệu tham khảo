@@ -1,6 +1,18 @@
-- Tài liệu cho Prim:
-+Tiếng Việt
-  https://vi.wikipedia.org/wiki/Thu%E1%BA%ADt_to%C3%A1n_Prim
-  https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/tim-kiem-cay-khung-nho-nhat-prim-4390
-+Tiếng Anh
-  https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/
+TÀI LIỆU THAM KHẢO
+Tiếng Việt 
+Nguyễn Hữu Lâm (2022)  “Đồ thị và cây” HowKteam. Truy cập từ: https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/do-thi-va-cay-4319 
+Nguyễn Hữu Lâm (2022)  “Tìm kiếm cây khung nhỏ nhất(Prim)” HowKteam. Truy cập từ: https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/tim-kiem-cay-khung-nho-nhat-prim-4390 
+Nguyễn Hữu Lâm (2022)  “Tìm kiếm cây khung nhỏ nhất(Kruskal)” HowKteam. Truy cập từ: https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/tim-kiem-cay-khung-nho-nhat-kruskal-4391    
+Nguyễn Hữu Lâm (2022)  “Tổng quan về Priority Queue” HowKteam. Truy cập từ: https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/tong-quan-ve-priority-queue-4384 
+Nguyễn Hữu Lâm (2022)  “Tổng quan về Disjoint Set Union” HowKteam. Truy cập từ: https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/tong-quan-ve-disjoint-sets-union-va-cach-xay-dung-dsu-4385 
+Wikipedia. (n.d.). Cây bao trùm. Truy cập từ: https://vi.wikipedia.org/wiki/C%C3%A2y_bao_tr%C3%B9m 
+Wikipedia. (n.d.). Cây bao trùm nhỏ nhất. Truy cập từ: https://vi.wikipedia.org/wiki/C%C3%A2y_bao_tr%C3%B9m_nh%E1%BB%8F_nh%E1%BA%A5t 
+Wikipedia. (n.d.). Thuật toán Prim. Truy cập từ: https://vi.wikipedia.org/wiki/Thu%E1%BA%ADt_to%C3%A1n_Prim 
+Wikipedia. (n.d.). Thuật toán Boruvka. Truy cập từ: https://vi.wikipedia.org/wiki/Thu%E1%BA%ADt_to%C3%A1n_Bor%C5%AFvka 
+Wikipedia. (n.d.). Thuật toán Kruskal. Truy cập từ: https://vi.wikipedia.org/wiki/Thu%E1%BA%ADt_to%C3%A1n_Kruskal 
+
+Tiếng Anh
+GeeksforGeeks (2023)  “Applications of Minimum Spanning Tree” GeeksforGeeks. Truy cập từ: https://www.geeksforgeeks.org/applications-of-minimum-spanning-tree/?ref=ml_lbpb 
+GeeksforGeeks (2023)  “Boruvka’s algorithm | Greedy Algp-9” GeeksforGeeks. Truy cập từ: https://www.geeksforgeeks.org/boruvkas-algorithm-greedy-algo-9/ 
+GeeksforGeeks (2023)  “Kruskal’s Minimum Spanning Tree (MST)” GeeksforGeeks. Truy cập từ: https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/ 
+GeeksforGeeks (2024)  “Prim’s Algorith for Minimum Spanning Tree (MST)” GeeksforGeeks. Truy cập từ: https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/
