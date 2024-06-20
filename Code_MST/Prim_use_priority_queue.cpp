@@ -61,7 +61,8 @@ public:
             //với mỗi cặp kề v của u 
             //(biểu diễn bằng cặp (v.first, v.second) trongdanh sách kề )
             //v.fisrt là đỉnh, v.second là cạnh nối giữa u và đỉnh đó
-            //Nếu khoảng cách từ u đến v (v.second) nhỏ hơn khoảng cách được lưu trữ hiện tại (dist[v.first]):
+            //Nếu khoảng cách từ u đến v (v.second) nhỏ hơn
+            //khoảng cách được lưu trữ hiện tại (dist[v.first]):
             //Cập nhật cha của v.first thành u.
             //Cập nhật khoảng cách dist[v.first] thành giá trị mới(v.second).
             //Đẩy khoảng cách đã cập nhật và v.first vào pq.
