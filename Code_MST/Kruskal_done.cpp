@@ -67,7 +67,6 @@ public:
     void addEdge(int u, int v, int w) {
         edgelist.push_back({ u, v, w });
     }
-
     void kruskals_mst() {
         //sort(edgelist.begin(), edgelist.end(), compareEdge);
         quickSort(edgelist, 0, edgelist.size() - 1);
@@ -83,7 +82,6 @@ public:
             int u = edge[0];
             int v = edge[1];
             int w = edge[2];
-
             if (s.find_set(u) != s.find_set(v)) {
                 s.union_set(u, v);
                 MST_Cost += w;
